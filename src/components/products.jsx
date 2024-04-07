@@ -15,7 +15,7 @@ const Products = () => {
             <div key={id} className='relative rounded-t-md overflow-hidden'>
               <Link to={`/product/${id}`}>
                 <div className='flex text-gray-800 text-[16px] flex-col gap-2'>
-                  <img className=' rounded-md' src={image} alt={title} />
+                  <img className=' rounded-md' src={image} alt={title} loading='lazy' />
                   <h2>{title}</h2>
                   <p>{price}</p>
                   <button className='w-[8rem] border-[1px] p-2 bo border-gray-800 text-gray-800 hover:bg-gray-900 hover:text-[#D3D3D3] hover:scale-110 '>Add to cart</button>  
