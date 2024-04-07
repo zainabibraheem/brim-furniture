@@ -1,5 +1,5 @@
 import React from 'react'
-import about from '../assets/hero1.jpg';
+import about from '../assets/about.jpg';
 import { FaArrowRightLong } from "react-icons/fa6";
 import { Link } from 'react-router-dom';
 

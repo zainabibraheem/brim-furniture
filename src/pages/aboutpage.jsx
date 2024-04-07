@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import hero from '../assets/hero4.jpg'
+import hero from '../assets/aboutpage.jpg'
 import about from '../assets/hero1.jpg';
 
 

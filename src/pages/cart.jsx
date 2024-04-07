@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { TiShoppingCart } from "react-icons/ti";
-import hero from '../assets/product3.jpg'
+import hero from '../assets/cart.jpg'
 import { CartContext } from '../components/cartContext';
 import ProductQuantity from '../components/productQuantity';
 import { MdOutlineClose } from "react-icons/md";

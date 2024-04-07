@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import hero from '../assets/hero5.jpg';
+import hero from '../assets/contact.jpg';
 import { Link } from 'react-router-dom';
 import { TfiEmail } from "react-icons/tfi";
 import { FiPhone } from "react-icons/fi";

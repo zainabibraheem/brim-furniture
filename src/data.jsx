@@ -1,8 +1,8 @@
 // collection images
 
-import oak from './assets/collection1.jpg'
-import sunset from './assets/collection3.jpg'
-import bloom from './assets/collection2.jpg'
+import oak from './assets/natura1.jpg'
+import sunset from './assets/natura3.jpg'
+import bloom from './assets/natura2.jpg'
 
 
 // Collection Data
@@ -62,12 +62,12 @@ export const reviewsData = [
 
 //products images
 
-import product1 from './assets/product1.jpg'
-import product2 from './assets/product2.jpg'
-import product3 from './assets/product3.jpg'
-import product4 from './assets/product4.jpg'
-import product5 from './assets/product5.jpg'
-import product6 from './assets/product6.jpg'
+import product1 from './assets/productone.jpg'
+import product2 from './assets/producttwo.jpg'
+import product3 from './assets/cart.jpg'
+import product4 from './assets/productfour.jpg'
+import product5 from './assets/productfive.jpg'
+import product6 from './assets/productdix.jpg'
 
 
 
@@ -130,14 +130,14 @@ export const productsData = [
 ]
 
 // best sellers photos
-import best1 from './assets/others1.jpg';
-import best2 from './assets/others2.jpg';
-import best3 from './assets/others3.jpg';
-import best4 from './assets/others4.jpg';
-import best5 from './assets/others5.jpg';
-import best6 from './assets/others6.jpg';
-import best7 from './assets/others7.jpg';
-import best8 from './assets/others8.jpg';
+import best1 from './assets/othersone.jpg';
+import best2 from './assets/otherstwo.jpg';
+import best3 from './assets/othersthree.jpg';
+import best4 from './assets/othersfour.jpg';
+import best5 from './assets/othersfive.jpg';
+import best6 from './assets/otherssix.jpg';
+import best7 from './assets/othersseven.jpg';
+import best8 from './assets/otherseight.jpg';
 
 
 // best sellers data
