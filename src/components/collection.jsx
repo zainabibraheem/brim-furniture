@@ -1,6 +1,6 @@
 import React from 'react'
-import { collectionData } from '../data'
-import { Link } from 'react-router-dom'
+import { collectionData } from '../data';
+import { Link } from 'react-router-dom';
 
 const Collection = () => {
   return (
@@ -18,7 +18,7 @@ const Collection = () => {
             <Link to={`/collection/${item.id}`} >
               <div className='' key={item.id} >
                 <div className='flex flex-col items-center justify-center gap-3 mb-1 text-xl'>
-                  <img className='w-[300px] h-[400px]' src={item.img} alt={item.title} />
+                  <img className='w-[300px] h-[400px]' src={item.img} alt={item.title} loading='lazy'/>
                   <div className='flex flex-col items-center text-gray-800 text-[16px]'>
                     <span >{item.title}</span>
                     <span>N{item.price}</span>

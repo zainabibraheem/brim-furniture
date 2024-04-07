@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import hero from '../assets/aboutpage.jpg'
-import about from '../assets/hero1.jpg';
 
 
 const AboutPage = () => {
@@ -10,11 +9,7 @@ const AboutPage = () => {
     backgroundImage: `url(${hero})`
   };
 
-  const styles = {
-    backgroundImage: `url(${about})`
-  }
-
-
+  
   return (
     <div>
       <div className='flex justify-center  h-[350px] lg:h-[500px] bg-cover' style={style}>

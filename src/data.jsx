@@ -67,7 +67,7 @@ import product2 from './assets/producttwo.jpg'
 import product3 from './assets/cart.jpg'
 import product4 from './assets/productfour.jpg'
 import product5 from './assets/productfive.jpg'
-import product6 from './assets/productdix.jpg'
+import product6 from './assets/productsix.jpg'
 
 
 
